@@ -5,27 +5,20 @@ Requires at least: 2.8.1
 Tested up to: 2.9.2
 Stable tag: 1.9
 
-The Freebase plugin is a WordPress plugin that allows you to easily add Freebase TopicBlocks to your blog posts directly from within WordPress. 
-
 == Description ==
 
 The Metaweb plugin is a WordPress plugin that allows you to easily add Metaweb TopicBlocks to your blog posts directly from within WordPress. You can quickly add TopicBlocks to individual blog posts or have TopicBlocks automatically inserted whenever you use certain tags.  
 
-If you’d like to learn more about TopicBlocks, jump to the About Metaweb TopicBlocks section.  
+If you’d like to learn more about TopicBlocks, visit http://www.metaweb.com/topicblocks
 
 == Installation ==
 
 To install the Metaweb plugin, follow these steps:
 
-1. Download the plugin file from (http://www.metaweb.com/wordpress) by clicking the “Download Now” button.  A zipped file called “metaweb.zip” will be downloaded onto your computer
-2. In your WordPress admin page, click the “Add New” option under “Plugins” on the left-hand side of the page.
-3. At the top of the page, click the “Upload” link
-4. Click the “Browse” button
-5. Find the metaweb.zip file wherever you saved the downloaded file, and select it
-6. Click the “Install Now” button in the WordPress admin dashboard
-7. Under “Plugins”, click the “Installed” link
-8. Find the Metaweb plugin in the list of plugins and click the “Activate” link.
-9. After you activate the plugin, you’ll be taken to a “Getting Started” page that provides you with instructions on how to start using the Metaweb plugin.
+1. In your Wordpress installation, click on Plugins > Add New
+2. Search for 'metaweb topicblocks'. The Metaweb Topicblocks plugin should be the first result
+3. Click on 'Install' on the right side of the search results
+4. After you activate the plugin, you’ll be taken to a “Getting Started” page that provides you with instructions on how to start using the Metaweb plugin.
 
 For general information on how to install and manage plugins on WordPress, visit WordPress’ “Managing Plugins” page at (http://codex.wordpress.org/Managing_Plugins).
 
@@ -171,7 +164,13 @@ In addition, we have a wide range of tools that site owners can use to ensure th
 
 Freebase has information on over 11 million entities spanning a wide range of categories – everything from movie stars to recipes to scientific data.  For all these entities, Freebase has facts, images, descriptions, links to related content on the web, and collections of related entities.  To get a better sense of what’s available, visit our explore page.
 
+== Screenshots ==
 
+1. The Metaweb plugin is a WordPress plugin that allows you to easily add Metaweb TopicBlocks to your blog posts directly from within WordPress.
+
+2. You can quickly add TopicBlocks to individual blog posts.
+
+3. You can also have TopicBlocks automatically inserted whenever you use certain tags.  
 
 == Changelog ==
 
