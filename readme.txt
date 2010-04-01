@@ -113,6 +113,14 @@ In RSS readers, TopicBlocks will render just an image of the topic instead of th
 
 3. You can also have TopicBlocks automatically inserted whenever you use certain tags.  
 
+4. A TopicBlock for the movie Avatar, along with links to popular movie sites
+
+5. A trailer for the movie Alice In Wonderland
+
+6. Information, links and news about Ashton Kutcher
+
+7. Latest tweets and news about Barack Obama
+
 == Changelog ==
 
 = 1.9 = 
