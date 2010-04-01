@@ -85,8 +85,7 @@ If you have additional questions or problems, email us at help@metaweb.com.  For
 
 = How will TopicBlocks impact my search engine ranking? =
 
-The content in TopicBlocks is delivered in an iframe, which search engines generally do not crawl.  Because of this, the direct impact on search engine rankings should be fairly minimal.
-That said, using TopicBlocks effectively can make your site more engaging – increasing your average time on site and decreasing your bounce rate. Over time, improving these types of metrics tends to improve search engine rankings.
+Much of the content in TopicBlocks is delivered in an iframe, which search engines do not crawl.  However, some links in TopicBlocks are directly embedded in your web page, and search engines can crawl and understand these links.  Because these links are to well-known web pages - for example, a link to a Wikipedia, Netflix, or New York Times page - they help search engines understand what your page is about and can therefore help search rankings.  
 
 = Can I insert more than one TopicBlock into my blog posts? =
 
