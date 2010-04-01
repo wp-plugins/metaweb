@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Metaweb Topicblocks
+Plugin Name: Metaweb TopicBlocks
 Plugin URI: http://www.metaweb.com/wordpress
 Description: The Metaweb plugin is a WordPress plugin that allows you to easily add Metaweb TopicBlocks to your blog posts directly from within WordPress. You can quickly add TopicBlocks to individual blog posts or have TopicBlocks automatically inserted whenever you use certain tags.  
 Version:1.9
