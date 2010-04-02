@@ -121,6 +121,8 @@ In RSS readers, TopicBlocks will render just an image of the topic instead of th
 
 7. Latest tweets and news about Barack Obama
 
+8. Links to Fandango and Netflix for Toy Story 2
+
 == Changelog ==
 
 = 1.9 = 
